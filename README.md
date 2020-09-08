@@ -1,1 +1,1 @@
-# SchoolManagement
+# Odoodocumentation
